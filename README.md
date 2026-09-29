@@ -241,4 +241,4 @@ This repository serves as the official landing page for WorldShift. The software
 **Get the most recent version of WorldShift today!**
 
 ---
-**Last updated:** 2026-09-29 04:11:06 UTC
+**Last updated:** 2026-09-29 11:04:22 UTC
